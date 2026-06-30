@@ -10,8 +10,8 @@ Five of Us is a private mobile application developed using Flutter and Firebase 
 - Friends Section
 - Chat Section
 - User Profile
-- Emergency SOS System (In Progress)
-- Photo Sharing (In Progress)
+- Emergency SOS System 
+- Photo Sharing
 
 ## Technology Stack
 
