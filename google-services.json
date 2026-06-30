@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557432005946",
+    "project_id": "five-of-us",
+    "storage_bucket": "five-of-us.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557432005946:android:c9f24a155f96d87b81dc03",
+        "android_client_info": {
+          "package_name": "com.example.five_of_us"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd3b0_Y5qQRvSnqAQ3Kc8_CcUdlhAs6tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
