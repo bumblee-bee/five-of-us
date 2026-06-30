@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # five_of_us
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# five-of-us
+>>>>>>> 75e0bf3b94023d73def586795d63ac05707458ae
