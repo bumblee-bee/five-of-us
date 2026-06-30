@@ -53,9 +53,6 @@ Completed Features:
 - Splash Screen
 - Bottom Navigation
 - Home Screen
-
-Upcoming Features:
-
 - Emergency SOS Button
 - Emergency Notification System
 - Live Location Sharing
@@ -64,31 +61,6 @@ Upcoming Features:
 - Photo Sharing
 - Real-time Communication
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/bumblee-bee/five-of-us.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd five-of-us
-```
-
-Install dependencies:
-
-```bash
-flutter pub get
-```
-
-Run the application:
-
-```bash
-flutter run
-```
 
 ## Developer
 
