@@ -1,20 +1,99 @@
-<<<<<<< HEAD
-# five_of_us
+# Five of Us
 
-A new Flutter project.
+Five of Us is a private mobile application developed using Flutter and Firebase for a close group of five friends. The application is designed to provide a secure and simple platform for communication, emergency assistance, and sharing important moments.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Registration and Login
+- Firebase Authentication
+- Home Dashboard
+- Friends Section
+- Chat Section
+- User Profile
+- Emergency SOS System (In Progress)
+- Photo Sharing (In Progress)
 
-A few resources to get you started if this is your first Flutter project:
+## Technology Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# five-of-us
->>>>>>> 75e0bf3b94023d73def586795d63ac05707458ae
+## Project Structure
+
+```
+lib/
+├── models/
+├── providers/
+├── repositories/
+├── screens/
+│   ├── auth/
+│   ├── chat/
+│   ├── friends/
+│   ├── home/
+│   ├── profile/
+│   └── splash/
+├── services/
+├── theme/
+└── widgets/
+```
+
+## Current Status
+
+The project is currently under active development.
+
+Completed Features:
+
+- Firebase Integration
+- User Authentication
+- Registration
+- Login
+- Splash Screen
+- Bottom Navigation
+- Home Screen
+
+Upcoming Features:
+
+- Emergency SOS Button
+- Emergency Notification System
+- Live Location Sharing
+- Private Chat
+- Profile Picture Upload
+- Photo Sharing
+- Real-time Communication
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/bumblee-bee/five-of-us.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd five-of-us
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## Developer
+
+This project is developed as a Flutter learning and development project with Firebase integration.
+
+## License
+
+This project is intended for educational and personal use.
